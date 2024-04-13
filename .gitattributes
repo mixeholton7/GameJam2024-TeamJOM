@@ -1,3 +1,6 @@
 *.asset filter=lfs diff=lfs merge=lfs -text
 GameJam2024-TeamJOM/Library/SourceAssetDB filter=lfs diff=lfs merge=lfs -text
 GameJam2024-TeamJOM/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+*.digestcache filter=lfs diff=lfs merge=lfs -text
+GameJam2024-TeamJOM/Library/SourceAssetDB filter=lfs diff=lfs merge=lfs -text
+GameJam2024-TeamJOM/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
